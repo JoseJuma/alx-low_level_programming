@@ -3,9 +3,10 @@
 #include <stdlib.h>
 
 /**
- * main - entry point
+ * main - main block
  * print alphates in lowers case
- * return: 0
+ * Return: 0 (success)
+ *
  */
 
 int main(void)
