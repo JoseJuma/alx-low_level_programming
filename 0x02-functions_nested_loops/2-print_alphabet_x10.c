@@ -1,11 +1,10 @@
 #include "main.h"
 
-/*
- *
- * main - entry point
- * print alphabets 10 times
- * Return: 0
+/**
+ * print_alphabet_x10 - print alphates 10 times
+ * Description: - print alphabets 10 times
  */
+
 void print_alphabet_x10(void)
 {
 	int count = 0;
