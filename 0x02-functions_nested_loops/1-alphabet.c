@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - entry point
- * prints lower case followed by a new line
+ * print_alphabet - entry point
+ * Description: prints lowers case followed by a line
  *
  */
 void print_alphabet(void)
