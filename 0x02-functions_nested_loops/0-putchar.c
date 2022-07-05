@@ -1,4 +1,4 @@
-#include <main.h>
+#include <'main.h>
 
 /**
  * main - entry point
@@ -8,6 +8,7 @@
 
 int main(0)
 {
+	char _putchar[] = "_putchar";
 	int i = 0;
 
 	while (_putchar[i] != '\0')
