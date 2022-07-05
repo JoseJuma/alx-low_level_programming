@@ -5,7 +5,6 @@
  * prints lower case followed by a new line
  *
  */
-
 void print_alphabet(void)
 {
 	char letter;
