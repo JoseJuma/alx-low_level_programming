@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * *_strncpy - copies a string
+ * _strncpy - copies a string
  * @dest: buffer storing the string copy
  * @src: source string
  * @n: max bytes
