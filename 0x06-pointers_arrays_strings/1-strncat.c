@@ -4,8 +4,7 @@
 /**
  * *_strcat - concatenates two strings
  * @dest: pointer to the string to be joined
- * @src: source string to be appended 
- *
+ * @src: source string to be appended
  * Return: pointer to dest
  *
  */
