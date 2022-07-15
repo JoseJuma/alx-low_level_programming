@@ -3,9 +3,9 @@
 
 /**
  * rot13 - encoder rot13
- * @s: pointer 
+ * @s: pointer
  *
- *Return: *s
+ * Return: *s
  */
 
 char *rot13(char *s)
@@ -28,5 +28,3 @@ char *rot13(char *s)
 	}
 	return (s);
 }
-			
-
