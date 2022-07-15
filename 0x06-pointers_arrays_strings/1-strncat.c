@@ -2,9 +2,11 @@
 #include <stdio.h>
 
 /**
- * _strncat - concatenates two strings
+ * *_strncat - concatenates two strings
  * @dest: pointer to the string to be joined
  * @src: source string to be appended
+ * @n: number
+ *
  * Return: pointer to dest
  *
  */
